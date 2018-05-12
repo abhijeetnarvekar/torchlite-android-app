@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TorchLite</string>
+    <string name="torchLiteON">Torch Lite ON</string>
+    <string name="torchLiteOFF">Torch Lite OFF</string>
+    <string name="enableCamera">ENABLE CAMERA</string>
+    <string name="noflashAvailable">No FLASH available</string>
+</resources>
