@@ -1,4 +1,4 @@
-# torchlite-android-app
+# TorchLite
 TorchLite Android App. A simple flashlight application
 
 You can download from Google Play Store :
